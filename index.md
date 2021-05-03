@@ -1,4 +1,4 @@
-# This is my portfolio page, thanks for visiting.
+## This is my portfolio page, thanks for visiting.
 
 [a relative link](FileTransferDoc.pdf)
 [a relative link](GPGEncryptionDoc.pdf)
