@@ -1,8 +1,8 @@
-## This is my portfolio page, thanks for visiting.
+## Thank you for visiting my portfolio page.
 
-[a relative link](FileTransferDoc.pdf)
-[a relative link](GPGEncryptionDoc.pdf)
-[a relative link](SSISPackageCSVExtract.pdf)
-[a relative link](HowtoConfigureanIISWebApplication.pdf)
-[a relative link](CompanyMemo.pdf)
-[a relative link](JohnCottonJrPuritanDeclension ModelorRadicalMissionary.pdf)
+[File Transfer Client Documentation](FileTransferDoc.pdf)\
+[GPG Encryption Setup Documentation](GPGEncryptionDoc.pdf)\
+[How to create a csv extract file with a SQL query](SSISPackageCSVExtract.pdf)\
+[How to configure an IIS web application](HowtoConfigureanIISWebApplication.pdf)\
+[A comapny memo example](CompanyMemo.pdf)\
+[A historical research paper presented at the Missouri Valley History Conference](JohnCottonJrPuritanDeclension ModelorRadicalMissionary.pdf)
