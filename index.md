@@ -4,7 +4,7 @@
 
 ##### Documentation and examples of file transfer clients and protocols. This was written as a best practice for new file transfers.
 
-[File Transfer Client Documentation](FileTransferDoc.pdf)  
+[File Transfer Client Documentation](FileTransferGuidelines.pdf)  
 
 
 ##### Document for creating a new gpg encryption setup. This was developed to secure personal identifying information in transit.
