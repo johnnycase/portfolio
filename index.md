@@ -1,4 +1,4 @@
-#### Thank you for visiting my portfolio page. Please find examples of my work here.
+#### Thank you for visiting my portfolio page, please find examples of my work here.
 
 ---
 
